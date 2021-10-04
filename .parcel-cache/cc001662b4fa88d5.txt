@@ -1,0 +1,8 @@
+7
+55C:\Users\gomez\Documents\Generation\Clases\modulos\dist132778348026245187 1
+61C:\Users\gomez\Documents\Generation\Clases\modulos\index.html132778344884206315 0
+58C:\Users\gomez\Documents\Generation\Clases\modulos\main.js132778347944239609 0
+66C:\Users\gomez\Documents\Generation\Clases\modulos\dist\index.html132778347857474124 0
+65C:\Users\gomez\Documents\Generation\Clases\modulos\operaciones.js132778343813858772 0
+77C:\Users\gomez\Documents\Generation\Clases\modulos\dist\index.6b9ca3e8.js.map132778348026205190 0
+73C:\Users\gomez\Documents\Generation\Clases\modulos\dist\index.6b9ca3e8.js132778348026105192 0
